@@ -3,4 +3,4 @@
 Check out the site here - 
 https://devkmaan.github.io/RockPaperScissors/
 
-Made a simple rock paper scissors game using HTML,CSS and JS
+Made a simple rock paper scissors game using HTML and CSS
